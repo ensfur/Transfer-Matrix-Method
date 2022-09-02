@@ -1,6 +1,6 @@
 # title: Transfer Matrix Method
 # Author details: Author: Furkan ÇÖZELİ, Contact details: cozelifurkan117@gmail.com
-# Script and data info: This script performs transfer matrix method analyses on created multilayer structure.  
+# Script info: This script performs transfer matrix method analyses on created multilayer structure.  
 
 import numpy as np
 import matplotlib.pyplot as plt
