@@ -1,9 +1,6 @@
 # title: Transfer Matrix Method
 # Author details: Author: Furkan ÇÖZELİ, Contact details: cozelifurkan117@gmail.com
 # Script and data info: This script performs transfer matrix method analyses on created multilayer structure.  
-# Data consists of counts of bird species.
-# Data was collected in the hunter valley region between 1990 and 1991. 
-# Copyright statement: This script is the product of UNSW etc.
 
 import numpy as np
 import matplotlib.pyplot as plt
